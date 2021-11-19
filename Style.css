@@ -197,10 +197,22 @@
   }*/
 
   #nav-meio {
-    background-color: yellow;
+    background-color: #23232e;
     height: 60vh;
     width: auto;
+  }
 
+  .perfil {
+    border-radius: 50%;
+    background: url("images/jin woo 1.jpg");
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+    display: flex;
+  }
+
+  #nav-contato {
+    background-color: #ffffff;
   }
 
 
